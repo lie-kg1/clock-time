@@ -6,7 +6,7 @@ A lightweight, multi-platform utility application for tracking time across Windo
 
 ## 🚀 Downloads & Installation
 
-You can download official pre-built binaries directly from the [Releases Page](https://github.com/lie-kg1/clock-time/releases/tag/v1.0.0).
+You can download official pre-built binaries directly from the [Releases Page](https://github.com/lie-kg1/clock-time/releases/tag/v2.0.0).
 
 | Platform | Download / Access | Requirements |
 | :--- | :--- | :--- |
